@@ -1,4 +1,5 @@
 Invaders Game – Built with Rust 🦀
+
 This is a simple Invaders-style game created using the Rust programming language.
 
 Features
