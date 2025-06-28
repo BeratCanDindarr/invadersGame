@@ -2,7 +2,7 @@ Invaders Game – Built with Rust 🦀
 This is a simple Invaders-style game created using the Rust programming language.
 
 Features
--Player can move left and right
+-Player can move left and right \n
 -AI-controlled invaders move in left, right, and downward directions
 -Player can shoot the invaders
 -Basic collision detection system based on position
